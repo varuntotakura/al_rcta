@@ -1,4 +1,4 @@
-# AL_RCTA - An Analysis of _A_ctive _L_earning Algorithms using _R_eal-World _C_rowd-sourced _T_ext _A_nnotations
+# AL_RCTA - An Analysis of Active Learning Algorithms using Real-World Crowd-sourced Text Annotations
 
 
 
