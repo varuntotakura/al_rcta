@@ -1,4 +1,4 @@
-**AL_RCTA** - An Analysis of **A**ctive **L**earning Algorithms using **R**eal-World **C**rowd-sourced **T**ext **A**nnotations
+# AL_RCTA - An Analysis of _A_ctive _L_earning Algorithms using _R_eal-World _C_rowd-sourced _T_ext _A_nnotations
 
 
 
