@@ -61,8 +61,7 @@ A concise view of the repository layout:
 Use the provided cleaned files and annotation folders to reproduce the splits and experiments described in the paper. Scripts in the codebase expect the file names and columns described above.
 
 ## Citation & contact
-If you use this repository or the collected annotations, please cite the accompanying paper and acknowledge the dataset sources.  
-Author: Varun Totakura
+If you use this repository or the collected annotations, please cite the accompanying paper and acknowledge the dataset sources. 
 
 ## Paper citation (BibTeX)
 The paper has been accepted to WCCI 2026 - IJCNN (to appear). Use the following BibTeX entry:
