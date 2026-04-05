@@ -13,17 +13,20 @@ We used three benchmark text-classification datasets:
 For each dataset we randomly sampled 3,000 examples and collected annotations via Upwork/Amazon Mechanical Turk from multiple distinct workers (10 annotators per sampled set, Wikipedia includes 9 annotator files in this repo). Annotators could abstain by entering label 0. The protocol received ethical review and participant consent; no worker identities were recorded.
     
 ## Folder structure & key files
-AGNewsGroups/
-- Cleaned_AG_News_Dataset_3_columns_ALL.xlsx — main cleaned dataset (Index, Description, Class Index).
-- Annotations/ — human annotation files (AG_Upwork_<num>.xlsx).
+IJCNN_2026/
+- Contains the Supplemental file for the IJCNN 2026 main paper
 
-ConsumerComplaints/
-- Cleaned_Dataset_All.xlsx — main cleaned dataset (Index, Consumer complaint narrative, Product).
-- Annotations/ — human annotation files (CC_Upwork_<num>.xlsx).
+Data_AGNewsGroups/
+- Cleaned_AG_News_Dataset_3_columns_ALL.xlsx — Main cleaned dataset (Index, Description, Class Index).
+- Annotations/ — Human annotation files (AG_Upwork_<num>.xlsx).
 
-WikipediaMoviePlots/
-- Cleaned_Dataset_All.csv — main cleaned dataset (Index, Plot, Genre).
-- Annotations/ — human annotation files (Wiki_Upwork_<num>.csv) — nine annotator files provided.
+Data_ConsumerComplaints/
+- Cleaned_Dataset_All.xlsx — Main cleaned dataset (Index, Consumer complaint narrative, Product).
+- Annotations/ — Human annotation files (CC_Upwork_<num>.xlsx).
+
+Data_WikipediaMoviePlots/
+- Cleaned_Dataset_All.csv — Main cleaned dataset (Index, Plot, Genre).
+- Annotations/ — Human annotation files (Wiki_Upwork_<num>.csv) — nine annotator files provided.
 
 All dataset files in this repo use an "Index" column (unique id), a text column standardized as "Description", and a label column standardized as "Labels".
 
